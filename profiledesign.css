@@ -63,3 +63,23 @@ body{
 	margin-left: 2%;
 	margin-top: .2%;
 }
+
+.box{
+	float: top;
+	height: 385px;
+	width: 950px;
+	background: rgba(0, 0, 0, 0.1);
+	text-align: center;
+	margin: auto;
+	margin-top: 1%;
+	margin-left: 15%;
+	color: black;
+	font-family: 'Bradley Hand ITC', sans-serif;
+}
+
+.box-img{
+	width: 900px;
+	height: 350px;
+	margin-top: 2%;
+	border-radius: 40px;	
+}	
