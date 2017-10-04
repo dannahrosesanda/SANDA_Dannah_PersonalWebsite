@@ -72,3 +72,15 @@ body{
 	text-top: top-center;
 	font-family: 'Bradley hand ITC', sans-serif;
 }
+
+.floating-box-img{
+	width: 300px; 
+	height: 450px;
+	margin: right;
+    margin-left: 20%;
+	margin-top: -5%;	
+	position: absolute;
+	left: -19px;
+	top: 15%;
+	border-radius: 40px;
+}
