@@ -127,3 +127,26 @@ body{
 	font-family: 'Comic sans MS', sans-serif;
 	font-size: 15px;
 }
+
+.educ{
+	width: 950px;
+	height: 280px;
+	background: rgba(0, 0, 0, 0.1);
+	margin: auto;
+	margin-top: 1%;
+	margin-left: 15%;
+	color: black;
+	font-family: 'Bradley Hand ITC', sans-serif;
+	text-align: center;
+	}
+}
+
+.educ h1{
+	font-family: 'Bradley Hand ITC', sans-serif;
+	margin-top: 5%;
+}
+
+.educ p{
+	font-family: 'Comic sans MS', sans-serif;
+	font-size: 15px;
+}
