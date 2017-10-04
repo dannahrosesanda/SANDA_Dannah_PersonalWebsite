@@ -140,6 +140,18 @@ body{
 	height: 1000px;
 }
 
+.row:after{
+	content="";
+	display: table;
+	clear: both;
+}
+
+.row{
+	margin-top: 2%;
+	margin-left: 10%;
+	font-family: 'Bradley Hand ITC', sans-serif;
+}
+
 .box-img{
 	width: 300px;
 	height: 800px;
