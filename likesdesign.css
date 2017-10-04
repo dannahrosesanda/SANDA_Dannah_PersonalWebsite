@@ -71,8 +71,15 @@ body{
 	margin-top: %;
 }
 
+.img {
+	width: 55px;
+	height:50px;
+	margin-left: 41.5%;
+	margin-top: 2%;
+}
+
 .im {
-	width: 50px;
+	width: 55px;
 	height:50px;
 	margin-left: 2%;
 	margin-top: 1%;
