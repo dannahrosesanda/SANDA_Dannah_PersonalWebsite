@@ -85,6 +85,19 @@ body{
 	border-radius: 40px;
 }
 
+.body p{
+	font-size: 40px;
+	margin-top: 40%;
+	margin-right: -5%;
+	text-align: center;
+	
+}
+
+.body h3{
+	margin-left: 70%;
+	margin-top: -10%;
+}
+
 .bottom{
 	width: 1349px;
 	height: 55px;
