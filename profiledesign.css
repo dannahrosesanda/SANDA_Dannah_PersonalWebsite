@@ -94,5 +94,14 @@ body{
 	margin-left: 15%;
 	color: black;
 	font-family: 'Bradley Hand ITC', sans-serif;
-	}
+}
+
+.info h1{
+	font-family: 'Bradley Hand ITC', sans-serif;
+	margin-top: 5%;
+}
+
+.info p{
+	font-family: 'Comic sans MS', sans-serif;
+	font-size: 15px;
 }
