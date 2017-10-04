@@ -70,3 +70,24 @@ body{
 	margin: buttom;
 	margin-top: %;
 }
+
+.im {
+	width: 55px;
+	height:50px;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+.i {
+	width: 55px;
+	height:50px;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+.box-img{
+	width: 300px;
+	height: 800px;
+	margin-top: 3%;
+	margin-left: 25%;
+}
