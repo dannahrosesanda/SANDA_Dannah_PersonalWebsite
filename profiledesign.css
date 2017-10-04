@@ -117,3 +117,13 @@ body{
 	color: black;
 	font-family: 'Bradley Hand ITC', sans-serif;
 }
+
+.fam h1{
+	font-family: 'Bradley Hand ITC', sans-serif;
+	margin-top: 5%;
+}
+
+.fam p{
+	font-family: 'Comic sans MS', sans-serif;
+	font-size: 15px;
+}
