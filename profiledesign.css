@@ -184,6 +184,27 @@ body{
 	margin-top: %;
 }
 
+.img {
+	width: 55px;
+	height:50px;
+	margin-left: 41.5%;
+	margin-bottom: 5%;
+}
+ 
+.im {
+	width: 55px;
+	height:50px;
+	margin-left: 2%;
+	margin-bottom: 5%;
+	}
+
+.i {
+	width: 55px;
+	height:50px;
+	margin-left: 2%;
+	margin-bottom: 5%;
+}
+
 .foot{
 	width: 1349px;
 	height: 50px;
