@@ -135,6 +135,11 @@ body{
 	font-family: 'Century Gothic', sans-serif;
 }
 
+.right{
+	width:25%;
+	height: 1000px;
+}
+
 .box-img{
 	width: 300px;
 	height: 800px;
