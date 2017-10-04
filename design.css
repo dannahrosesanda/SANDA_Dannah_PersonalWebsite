@@ -62,3 +62,13 @@ body{
 	margin-left: 2%;
 	margin-top: .2%;
 }
+
+.floating-box {
+    display: inline-block;
+	width: 480px;
+    height: 45px;
+	margin-top: 2%;
+    margin-left: 7%; 
+	text-top: top-center;
+	font-family: 'Bradley hand ITC', sans-serif;
+}
